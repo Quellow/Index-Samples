@@ -6,8 +6,9 @@ p
 
 }
 body {
-    background: url(http://www.urbanthreads.com/blog/wp-content/themes/indezinerpaperwall/images/logo.png) right no-repeat;
+    background: url(http://www.urbanthreads.com/blog/wp-content/themes/indezinerpaperwall/images/logo.png) top right no-repeat;
     background-color:#e0ac69;
+
 }
 a {
     color:#825a2d;
